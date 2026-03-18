@@ -1,0 +1,14 @@
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\bin\Debug\net10.0\Restaurent.exe
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\bin\Debug\net10.0\Restaurent.deps.json
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\bin\Debug\net10.0\Restaurent.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\bin\Debug\net10.0\Restaurent.dll
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\bin\Debug\net10.0\Restaurent.pdb
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\Restaurent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\Restaurent.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\Restaurent.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\Restaurent.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\Restaurent.dll
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\refint\Restaurent.dll
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\Restaurent.pdb
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\Restaurent.genruntimeconfig.cache
+C:\Users\LENOVO\RiderProjects\Restaurent\Restaurent\obj\Debug\net10.0\ref\Restaurent.dll
